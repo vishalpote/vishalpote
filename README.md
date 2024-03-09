@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Pote</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Backend developer</h3>
 
 - 🔭 I’m currently working on [Youtube-Clone](https://youtubev3-clone-app.netlify.app/)
 
