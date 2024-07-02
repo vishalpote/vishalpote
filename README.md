@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Master Of Computer Application**
 
-- 👨‍💻 All of my projects are available at [https://vishal-pote-portfolio.netlify.app/](https://vishal-pote-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://vishal-pote-portfolio.netlify.app]
 
 - 📫 How to reach me **potevishal9090@gmail.com**
 
