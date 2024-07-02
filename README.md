@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Master Of Computer Application**
 
-- 👯 I’m looking to collaborate on [Netflix-Clone](https://github.com/vishalpote/Netflix-Clone)
-
-- 👨‍💻 All of my projects are available at [https://vishal-portfollio.netlify.app](https://vishal-portfollio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://vishal-portfollio.netlify.app](https://vishal-pote-portfolio.netlify.app/)
 
 - 📫 How to reach me **potevishal9090@gmail.com**
 
